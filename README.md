@@ -62,8 +62,8 @@ Develop SQL-based analytics to deliver detailed insights into:
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
 
 ##  Repository Structure
-
-Data-warehouse-project/
+```
+Data_Warehouse_Project/
 │
 ├── Datasets/                           # Raw datasets used for the project (ERP and CRM data)
 │
@@ -80,7 +80,7 @@ Data-warehouse-project/
 │   ├── silver/                         # Scripts for cleaning and transforming data
 │   ├── gold/                           # Scripts for creating analytical models
 │
-├── tests/                              # Test scripts and quality files
+├── Tests/                              # Test scripts and quality files
 │
 ├── README.md                           # Project overview and instructions
 ├── LICENSE                             # License information for the repository
